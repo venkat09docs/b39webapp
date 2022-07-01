@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! V1.0.2</h2>
+<h2>Welcome to Manual CI Process! V1.0</h2>
 </body>
 </html>
