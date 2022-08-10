@@ -5,6 +5,6 @@ FROM centos:7
 RUN yum update -y
 
 # 3 - yum install wget git net-tools -y
-RUN yum install wget git net-tools -y
+RUN yum install net-tools -y
 
 # docker build -t name .
